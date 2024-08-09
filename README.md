@@ -40,6 +40,8 @@ int main() {
     }
 }
 ```
+## Output 5a
+![output5a](https://github.com/user-attachments/assets/6bd3097b-0182-4435-af20-fce7182c7c8c)
 ## Code: 5B
 ```
 //AKALP SARKAR
@@ -67,6 +69,8 @@ int main() {
     return 0;
 }
 ```
+## Output 5b
+![output5b](https://github.com/user-attachments/assets/5a7935a7-aa70-489c-a788-ee4cd9c05550)
 ## Code: 5C
 ```
 //AKALP SARKAR
@@ -118,6 +122,8 @@ int main() {
     return 0;
 }
 ```
+## Output 5c
+![output5c](https://github.com/user-attachments/assets/a293d1c8-b381-4c32-8cb1-56c63512ec2d)
 ## Code: 5D
 ```
 //AKALP SARKAR
@@ -158,5 +164,7 @@ int main() {
     }
 }
 ```
+## Output 5d
+![output5d](https://github.com/user-attachments/assets/f4feb520-561b-4246-84ca-512d91642483)
 ## Conclusion:
 I learnt about the different decision making statements of C++ and performed tasks based on those conditions.
